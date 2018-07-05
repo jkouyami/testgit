@@ -7,7 +7,7 @@
 * Histoire de décorer un peu
 
 
-![coucou](https://giphy.com/gifs/bbc-cute-animal-3oEhmHESktNSkLSNTG)
+![coucou](https://media.giphy.com/media/3oEhmHESktNSkLSNTG/200w.gif)
 
 
-![miaou](https://giphy.com/gifs/jerseydemic-3oriO0OEd9QIDdllqo)
+![miaou](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/200w.gif)
