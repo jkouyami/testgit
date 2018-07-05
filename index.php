@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Mon site internet</h1>
+    <p>php c'est fatal</p>
 
     <h2>TEST</h2>
 </body>
